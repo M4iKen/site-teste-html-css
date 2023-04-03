@@ -1,0 +1,52 @@
+@charset "UTF-8";
+
+
+*{font-family: Arial, Helvetica, sans-serif;}
+body{
+    background-image: linear-gradient( to right, #0c7e19b7, #142168c4, #304A71, #79070da1);
+    border-radius: 20px;
+    box-shadow: 5px 5px 15px #223240ce;
+    padding: 50px;
+    width: 700px;
+    margin: auto;
+}
+h1{ font-size: medium, arial black;
+    color: #C70E14;
+    text-shadow: 10px 10px 15px black;
+}
+h2{
+    font-size: medium, arial black;
+    color: #D2B100;
+    text-shadow: 5px 5px 12px black;
+}
+h3{ font-size: medium, arial black;
+    color: #D2B100;
+    text-shadow: 5px 5px 12px black;
+}
+h4{
+    font: normal 8pt Times;
+    color: #08bd11fd;
+    text-shadow: 3px 3px 5px rgb(2, 0, 0);
+}
+p{  font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    font-weight: normal;
+
+
+    color: #c9cfd8;
+    text-shadow: 0px 0px 0px black;  }
+ul{font-size: medium, arial;
+    color: #571f21d3;
+    text-shadow: 5px 5px 9px rgba(17, 91, 134, 0.753);
+
+    }
+    .conteudo:hover{
+        background-color: rgba(165, 25, 25, 0.692);
+        width: 260px;
+        }
+    .linksbooks:hover{
+        background-color: yellow;
+        display: inline-block;
+        border: 1px solid black;
+        width: 350px;
+            }
